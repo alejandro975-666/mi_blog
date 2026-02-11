@@ -30,4 +30,6 @@ Descarga los dos archivos en la misma carpeta y abre `index.html` en el navegado
 
 ---
 
+enlace para visualizar el blog: https://alejandro975-666.github.io/mi_blog/
+
 © 2026 Alejandro Saura Ayllón
