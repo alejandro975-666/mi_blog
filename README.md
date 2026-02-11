@@ -7,6 +7,7 @@ Blog personal sobre Fórmula 1 con noticias, análisis y clasificaciones.
 ```
 ├── index.html   # Estructura y contenido
 └── style.css    # Estilos y diseño
+└── script.js    # Js sencillo que añade un Event Listener para lanzar un mensaje via consola
 ```
 
 ## Tecnologías
